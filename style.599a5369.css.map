@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,SACE,kBACF,CAEA,YACE,aAAc,CACd,gBACF","file":"style.599a5369.css","sourceRoot":"..\\src","sourcesContent":[".section {\n  margin-bottom: 20px;\n}\n\n.form-field {\n  display: block;\n  padding-top: 10px;\n}\n"]}
